@@ -75,9 +75,9 @@ p {
   }
 
   .container p {
-    font-size: 10px;
+    font-size: 12px;
     line-height: 15px;
-    width: 80%;
+    width: 96%;
   }
   .btn {
     margin: 0;
@@ -88,8 +88,10 @@ p {
 
   .container {
     padding: 25% 0;
+    
+  
   }
-   .container > div
+  .container > div
   {
     padding-right: 3px;
   }
