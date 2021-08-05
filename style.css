@@ -89,6 +89,10 @@ p {
   .container {
     padding: 25% 0;
   }
+   .container > div
+  {
+    padding-right: 3px;
+  }
   .luxury {
     margin-bottom: 50px;
     border-top-right-radius: 0px;
