@@ -73,7 +73,6 @@ p {
   h2 {
     font-size: 40px;
   }
-
   .container p {
     font-size: 12px;
     line-height: 15px;
@@ -85,11 +84,9 @@ p {
     font-size: 8px;
     margin: 10px 0;
   }
-
   .container {
     padding: 25% 0;
-    
-  
+    margin-left: 37px;  
   }
   .container > div
   {
