@@ -1,2 +1,2 @@
 # 3-Column-Preview-Card
-This is one of the challange from Frontend Mentor which I completed. This is for the New Bees.
+This is one of the first challange from Frontend Mentor which I completed. In this challange we have to come as close as to the design given on their page.
